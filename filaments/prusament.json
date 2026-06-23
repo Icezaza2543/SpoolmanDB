@@ -9,7 +9,7 @@
                 {
                     "weight": 1000.0,
                     "spool_weight": 193.0,
-                    "spool_type": "plastic"
+                    "spool_type": "cardboard"
                 },
                 {
                     "weight": 2000.0,
@@ -101,6 +101,10 @@
                     "hex": "2B3B61"
                 },
                 {
+                    "name": "Carmine Red",
+                    "hex": "B54230"
+                },
+                {
                     "name": "Clear",
                     "hex": "dcdcdc"
                 }
@@ -145,7 +149,7 @@
                 {
                     "weight": 1000.0,
                     "spool_weight": 186.0,
-                    "spool_type": "plastic"
+                    "spool_type": "cardboard"
                 }
             ],
             "diameters": [
@@ -215,7 +219,7 @@
                 {
                     "weight": 1000.0,
                     "spool_weight": 193.0,
-                    "spool_type": "plastic"
+                    "spool_type": "cardboard"
                 }
             ],
             "diameters": [
@@ -267,7 +271,7 @@
                 {
                     "weight": 800.0,
                     "spool_weight": 193.0,
-                    "spool_type": "plastic"
+                    "spool_type": "cardboard"
                 }
             ],
             "diameters": [
@@ -393,7 +397,7 @@
                 {
                     "weight": 1000.0,
                     "spool_weight": 193.0,
-                    "spool_type": "plastic"
+                    "spool_type": "cardboard"
                 },
                 {
                     "weight": 2000.0,
@@ -490,6 +494,14 @@
                 {
                     "name": "Natural",
                     "hex": "DFDFD3"
+                },
+                {
+                    "name": "Ms. Pink",
+                    "hex": "E34A94"
+                },
+                {
+                    "name": "Galaxy Red",
+                    "hex": "D94A5A"
                 }
             ]
         }
