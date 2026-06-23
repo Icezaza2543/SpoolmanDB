@@ -224,7 +224,7 @@
       ]
     },
     {
-      "name": "copperFill",
+      "name": "copperFill {color_name}",
       "material": "PLA+PHA",
       "density": 3.90,
       "weights": [
@@ -254,7 +254,7 @@
       ]
     },
     {
-      "name": "bronzeFill",
+      "name": "bronzeFill {color_name}",
       "material": "PLA+PHA",
       "density": 3.90,
       "weights": [
@@ -284,7 +284,7 @@
       ]
     },
     {
-      "name": "brassFill",
+      "name": "brassFill {color_name}",
       "material": "PLA+PHA",
       "density": 3.10,
       "weights": [

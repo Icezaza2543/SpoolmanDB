@@ -78,7 +78,7 @@
         },
         {
             "name": "{color_name}",
-            "material": "ASA-X",
+            "material": "ASA",
             "density": 1.11,
             "weights": [
                 {
